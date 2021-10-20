@@ -34,7 +34,7 @@ Thank you.
 
 ## Follow Up
 
-Write an email afterwards to the people who have interviewed you. Thank them, and if there were any technical challenges that you couldn’t answer during the interview, reply and let them know that you have looked at the problem and this is the solution (hopefully you were able to figure it out by this point in the comfort of your home and google). Ask them in this letter when you should expect an answer.
+Write an [email](https://www.youtube.com/watch?v=1XctnF7C74s&ab_channel=HarvardBusinessReview) afterwards to the people who have interviewed you. Thank them, and if there were any technical challenges that you couldn’t answer during the interview, reply and let them know that you have looked at the problem and this is the solution (hopefully you were able to figure it out by this point in the comfort of your home and google). Ask them in this letter when you should expect an answer.
 
 ### Q. Tell me about yourself.
 
@@ -305,3 +305,15 @@ Send a follow-up **“Thank you”** email within 6-8 hours.
 Smiles can be seen but also “heard!”. All other usual interview protocols apply.  
 
 **Remember that interviews are a 2-way conversation, so don’t YOU perceive them as interrogations!**
+
+## Reference Links
+
+Youtube|Website
+-|-
+[Workitdaily](https://www.youtube.com/c/Workitdaily)|[biginterview](https://resources.biginterview.com/)
+[CareerVidz](https://www.youtube.com/c/CareerVidz/)|[Pramp](https://www.pramp.com/)
+[SuperChargeYourself](https://www.youtube.com/c/SuperChargeYourself/)|[The Balance Careers](https://www.thebalancecareers.com/)
+[letstalk](https://www.youtube.com/c/letstalk/)|[InterviewCake](https://www.interviewcake.com/)
+[HBSpublishing](https://www.youtube.com/hbspublishing/)|[Mock Questions](https://www.mockquestions.com/)
+[JeffSu](https://www.youtube.com/c/JeffSu/)|
+[LeilaGharani](https://www.youtube.com/c/LeilaGharani/)|
